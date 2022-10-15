@@ -1,0 +1,2 @@
+# traning-day-6
+ 

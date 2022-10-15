@@ -1,0 +1,7 @@
+https://freshcart.codescandy.com/assets/images/icons/refresh-cw.svg
+https://freshcart.codescandy.com/assets/images/icons/clock.svg
+https://freshcart.codescandy.com/assets/images/icons/gift.svg
+https://freshcart.codescandy.com/assets/images/icons/package.svg
+
+	https://freshcart.codescandy.com/assets/images/appbutton/googleplay-btn.svg
+https://freshcart.codescandy.com/assets/images/appbutton/appstore-btn.svg
